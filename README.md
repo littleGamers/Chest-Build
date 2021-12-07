@@ -20,7 +20,7 @@ To close the chest just walk away from it.
 
 ## Components
 
-Scene Path: **[Assets/Scenes/unity](Assets/Scenes/ChestBuild.unity)**
+Scene Path: **[Assets/Scenes/ChestBuild.unity](Assets/Scenes/ChestBuild.unity)**
 
 ### New Scripts:
 
