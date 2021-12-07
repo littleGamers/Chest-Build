@@ -18,6 +18,15 @@ then use SPACE to achieve the weapon inside the chest.
 To close the chest just walk away from it.
 <br/>
 
+## Components
+
+Scene Path: **[Assets/Scenes/unity](Assets/Scenes/ChestBuild.unity)**
+
+### New Scripts:
+
+**[PlayerCatcher](Assets/PlayerCatcher.cs) -** Used ny enemies to handle the catching of a player.
+<br />
+
 ## External Links
 https://littlegamers2021.itch.io/chestbuild
 <br/>
