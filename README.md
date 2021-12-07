@@ -24,7 +24,10 @@ Scene Path: **[Assets/Scenes/ChestBuild.unity](Assets/Scenes/ChestBuild.unity)**
 
 ### New Scripts:
 
-**[PlayerCatcher](Assets/PlayerCatcher.cs) -** Used ny enemies to handle the catching of a player.
+**[TriggerChest](Assets/TriggerChest.cs) -** Used on an animated chest and let the player open/close the chest.
+
+**[PickUpWeapon](Assets/PickUpWeapon.cs) -** Used to let the player pick up the weapon from the chest.
+
 <br />
 
 ## External Links
